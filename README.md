@@ -6,7 +6,7 @@ Supports both regular source files and Jupyter notebooks (`.ipynb`). In notebook
 
 ## Installation
 
-To install `linter-todo` search for [linter-todo](https://web.pulsar-edit.dev/packages/linter-todo) in the Install pane of the Pulsar settings or run `ppm install linter-todo`. Alternatively, you can run `ppm install asiloisad/pulsar-linter-todo` to install a package directly from the GitHub repository.
+To install `linter-todo` search for [linter-todo](https://web.pulsar-edit.dev/packages/linter-todo) in the Install pane of the Pulsar settings or run `ppm install linter-todo`. Alternatively, you can run `ppm install asiloisad-pulsar/linter-todo` to install a package directly from the GitHub repository.
 
 ## Commands
 
