@@ -1,7 +1,7 @@
 {
   "name": "linter-todo",
   "description": "Scans files for TODO-style keywords and reports them as linter messages",
-  "repository": "https://github.com/asiloisad/pulsar-linter-todo",
+  "repository": "https://github.com/asiloisad-pulsar/linter-todo",
   "keywords": [
     "linter",
     "todo",

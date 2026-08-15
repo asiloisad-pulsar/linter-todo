@@ -2,7 +2,7 @@
 
 Scans files for TODO-style keywords and reports them as info-level linter messages. Uses the same default keywords as the built-in `language-todo` package.
 
-Supports both regular source files and Jupyter notebooks (`.ipynb`). In notebook mode, each code cell is scanned individually and messages are mapped to the correct cell via [jupyter-next](https://github.com/asiloisad/pulsar-jupyter-next).
+Supports both regular source files and Jupyter notebooks (`.ipynb`). In notebook mode, each code cell is scanned individually and messages are mapped to the correct cell via [jupyter-next](https://github.com/asiloisad-pulsar/jupyter-next).
 
 ## Installation
 
