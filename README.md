@@ -2,6 +2,9 @@
 
 Scans files for TODO-style keywords and reports them as info-level linter messages. Uses the same default keywords as the built-in `language-todo` package.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [linter-todo](https://github.com/lumine-code/linter-todo).
+
 Supports both regular source files and Jupyter notebooks (`.ipynb`). In notebook mode, each code cell is scanned individually and messages are mapped to the correct cell via [jupyter-next](https://github.com/asiloisad-pulsar/jupyter-next).
 
 ## Installation
